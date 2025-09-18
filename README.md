@@ -1,4 +1,4 @@
-# 🌍 Cryptoverse - Explore the World of Cryptocurrency  
+# 🌍 Coinnect - Explore the World of Cryptocurrency  
 
 ![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)  
 
@@ -6,7 +6,7 @@
 ### [🚀 Build real-world projects with APIs](https://rapidapi.com/)  
 
 ## Introduction  
-This is the code repository for the **Cryptoverse App**.  
+This is the code repository for the **Coinnect App**.  
 
 In this project, we build a modern cryptocurrency application using **React, Redux Toolkit, Axios, RapidAPI, HeroUI, and React Charts**.  
 The app allows users to explore real-time crypto market data, track prices, view detailed coin stats, and read the latest news.  
@@ -43,10 +43,10 @@ By the end of this project, you will have hands-on experience working with APIs,
 
 ```bash
 # Clone the repo
-git clone https://github.com/Dishank9900/project_cryptoverse.git
+git clone https://github.com/Dishank9900/project_Coinnect.git
 
 # Navigate into the project
-cd project_cryptoverse
+cd project_coinnect
 
 # Install dependencies
 npm install
